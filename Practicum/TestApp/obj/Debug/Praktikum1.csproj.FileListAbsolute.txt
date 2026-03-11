@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ИСРПО\Praktikum1\bin\Debug\Praktikum1.exe.config
+C:\Users\user\Desktop\ИСРПО\Praktikum1\bin\Debug\Praktikum1.exe
+C:\Users\user\Desktop\ИСРПО\Praktikum1\bin\Debug\Praktikum1.pdb
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.FormFinish.resources
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.FormQuestions.resources
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.FormStart.resources
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.Properties.Resources.resources
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.exe
+C:\Users\user\Desktop\ИСРПО\Praktikum1\obj\Debug\Praktikum1.pdb
