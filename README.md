@@ -1,1 +1,4 @@
-Дисциплина: Инструментальные средства разработки программного обеспечения ФИО: Скрипник Максим Александрович Группа: ПР23/2 Описание: В данном репозитории будут выкладываться лабораторные работы и практикумы по данной дисциплине
+Discipline: Software Development Tools Full 
+Name: Skripnik Maxim Aleksandrovich 
+Group: PR23/2 
+Description: This repository will contain laboratory works and practical exercises for this discipline
