@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ИСРПО\PoleChudes\bin\Debug\PoleChudes.exe.config
+C:\Users\user\Desktop\ИСРПО\PoleChudes\bin\Debug\PoleChudes.exe
+C:\Users\user\Desktop\ИСРПО\PoleChudes\bin\Debug\PoleChudes.pdb
+C:\Users\user\Desktop\ИСРПО\PoleChudes\obj\Debug\PoleChudes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ИСРПО\PoleChudes\obj\Debug\PoleChudes.Form1.resources
+C:\Users\user\Desktop\ИСРПО\PoleChudes\obj\Debug\PoleChudes.Properties.Resources.resources
+C:\Users\user\Desktop\ИСРПО\PoleChudes\obj\Debug\PoleChudes.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИСРПО\PoleChudes\obj\Debug\PoleChudes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИСРПО\PoleChudes\obj\Debug\PoleChudes.exe
+C:\Users\user\Desktop\ИСРПО\PoleChudes\obj\Debug\PoleChudes.pdb
