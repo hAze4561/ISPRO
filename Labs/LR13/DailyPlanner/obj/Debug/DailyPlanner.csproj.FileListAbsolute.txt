@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\bin\Debug\DailyPlanner.exe.config
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\bin\Debug\DailyPlanner.exe
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\bin\Debug\DailyPlanner.pdb
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\obj\Debug\DailyPlanner.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\obj\Debug\DailyPlanner.Form1.resources
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\obj\Debug\DailyPlanner.Properties.Resources.resources
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\obj\Debug\DailyPlanner.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\obj\Debug\DailyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\obj\Debug\DailyPlanner.exe
+C:\Users\user\Desktop\ИСРПО\DailyPlanner\obj\Debug\DailyPlanner.pdb
