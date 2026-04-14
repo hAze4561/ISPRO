@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\bin\Debug\NumberSystemConverter.exe.config
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\bin\Debug\NumberSystemConverter.exe
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\bin\Debug\NumberSystemConverter.pdb
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\obj\Debug\NumberSystemConverter.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\obj\Debug\NumberSystemConverter.Form1.resources
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\obj\Debug\NumberSystemConverter.Properties.Resources.resources
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\obj\Debug\NumberSystemConverter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\obj\Debug\NumberSystemConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\obj\Debug\NumberSystemConverter.exe
+C:\Users\user\Desktop\ИСРПО\NumberSystemConverter\obj\Debug\NumberSystemConverter.pdb
